@@ -1,10 +1,10 @@
 # Titanic - Machine Learning from Disaster
 
-This project aims to predict passenger survival on the Titanic using **decision tree** models and **ensemble techniques** such as **Random Forest**, **XGBoost**, and **AdaBoost**. This repository includes the dataset, model code, and results, achieving an accuracy score of **0.83798**.
+This project aims to predict passenger survival on the Titanic using **decision tree** models and **ensemble techniques** such as **Random Forest**, **XGBoost**, and **Decision Tree**. This repository includes the dataset, model code, and results, achieving an accuracy score of **0.83798**.
 
-## Project Overview
+## Assignment Overview
 
-The Titanic dataset provides information about the passengers, including demographics and ticket information, allowing us to predict survival outcomes based on these features.
+The Titanic dataset provides information about the passengers, including demographics and ticket information, allowing us to predict survival outcomes based on these features. 
 
 ### Dataset Structure
 
@@ -45,4 +45,13 @@ An additional file, `gender_submission.csv`, serves as a baseline prediction exa
 1. **Data Preprocessing**: Handle missing values, encode categorical features, and scale numerical values.
 2. **Model Training**: Train RandomForest, XGBoost, or AdaBoost models using `train.csv`.
 3. **Model Evaluation**: Evaluate model accuracy on `test.csv`, yielding a score of **0.83798**.
+
+
+### Implementation
+
+- **Assignment2.ipynb**: contains code to train and test various models as mentioned before.
+
+### Result
+
+- **output (43).csv** contains output that leads to accuray of 0.83798 on test data using RandomForest and hypermeter tuning.  
    
