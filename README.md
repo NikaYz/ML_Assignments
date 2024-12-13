@@ -12,6 +12,6 @@ This repository contains assignments completed as part of the **Machine Learning
   - **Description**: This assignment applies a Decision Tree model (Random Forest, XGBoost or AdaBoost) to the Titanic dataset. The objective is to predict whether a passenger survived or not based on various features such as age, sex, passenger class, etc.
   - **Goal**: To explore tree-based classification methods and evaluate model performance on real-world data.
 
-- **Assignment 2**: Clustering News Headlines
+- **Assignment 3**: Clustering News Headlines
   - **Description**: This assignment applies clustering techniques to a dataset of 19,685 news headlines. The goal is to uncover patterns in the headlines using K-Means Clustering and Agglomerative Hierarchical Clustering. The dataset has been preprocessed and transformed into a 1,000-dimensional TF-IDF feature matrix. The task also involves comparing the clustering results.
   - **Goal**: To apply clustering algorithms to uncover themes in news headlines.
